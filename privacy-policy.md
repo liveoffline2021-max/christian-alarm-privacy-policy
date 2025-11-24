@@ -1,71 +1,60 @@
-# Privacy Policy for Christian Alarm Clock App
+# Privacy Policy – Christmas Alarm Clock
 
-Effective Date: November 17, 2025
+**Effective date:** November 24, 2025
 
-Thank you for using **Christian Alarm Clock** (“we”, “our”, or “us”).  
-This Privacy Policy explains how we handle information in our mobile application.
-
----
-
-## 1. Information We Collect
-
-Our app does **not collect personal data** directly.  
-However, we use **Google AdMob** to show advertisements.  
-AdMob may collect and use certain information as described in its privacy policy, such as:
-
-- Device identifiers
-- Advertising ID
-- Usage data related to ad interactions
-
-Learn more here: [Google AdMob Privacy Policy](https://policies.google.com/technologies/ads)
+Your privacy is important to us. Christmas Alarm Clock is designed to **not collect or store any personal information**.
 
 ---
 
-## 2. How We Use Information
+## Data Collection
 
-The data collected by AdMob is used to:
-- Display relevant ads
-- Improve ad performance and app experience
+While we do **not collect your personal data**, this app uses **Google AdMob** to display ads. AdMob may collect information such as:
 
-We do **not** sell or share user data directly.
+- Device identifiers (e.g., advertising ID)  
+- Usage data (e.g., app interactions, session duration)  
 
----
-
-## 3. Children’s Privacy
-
-Our app is intended for general audiences and does not knowingly collect personal data from children under 13.  
-If you believe a child has provided information, please contact us to remove it.
+This information is used to provide **personalized ads** and improve ad performance. We do **not** have access to personal details or share them ourselves.
 
 ---
 
-## 4. Third-Party Services
+## How Your Data is Used
 
-Our app uses:
-- **Google AdMob** (for ads)
-  
-These services may have their own privacy policies and data handling practices.
+Data collected by AdMob may be used to:  
 
----
+- Show ads that match your interests  
+- Measure ad performance and improve app quality  
+- Prevent fraud and enhance security  
 
-## 5. Your Consent
-
-By using this app, you consent to this Privacy Policy.
+We do **not** use your data for any other purposes.
 
 ---
 
-## 6. Changes to This Policy
+## User Choices
 
-We may update this Privacy Policy periodically.  
-Changes will be posted on this page.
-
----
-
-## 7. Contact Us
-
-If you have any questions or concerns, please contact:
-
-📧 liveoffline2021@gmail.com
+You can **opt out of personalized ads** by adjusting your Google settings here: [Google Ads Settings](https://www.google.com/settings/ads)
 
 ---
 
-**Last updated:** November 7, 2025
+## Children’s Privacy
+
+Christmas Alarm Clock is **not intended for children under 13**, and we do not knowingly collect data from children.
+
+---
+
+## Third-Party Services
+
+This app uses third-party services such as **Google AdMob**, which have their own privacy practices. For more information about Google AdMob’s data collection and privacy practices, please see the [Google Privacy Policy](https://policies.google.com/privacy).
+
+---
+
+## Updates to This Privacy Policy
+
+We may update this Privacy Policy occasionally. The **latest version will always be accessible** within the app.
+
+---
+
+## Contact Us
+
+If you have questions or concerns about this Privacy Policy, please contact us at:
+
+**Email:** liveoffline2021@gmail.com
