@@ -1,4 +1,4 @@
-# Privacy Policy – Christmas Alarm Clock
+# Privacy Policy – Christian Alarm Clock
 
 **Effective Date:** November 24, 2025
 
