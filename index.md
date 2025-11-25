@@ -2,7 +2,7 @@
 
 **Effective Date:** November 24, 2025
 
-Your privacy is important. Christmas Alarm Clock is designed **not to collect or store personal information**.
+Your privacy is important. Christian Alarm Clock is designed **not to collect or store personal information**.
 
 This file contains the Privacy Policy in multiple languages. Click a language below to jump to it:
 
@@ -29,11 +29,11 @@ This file contains the Privacy Policy in multiple languages. Click a language be
 
 ## English
 
-**Privacy Policy – Christmas Alarm Clock**  
+**Privacy Policy – Christian Alarm Clock**  
 
 **Effective date:** November 24, 2025  
 
-Your privacy is important to us. Christmas Alarm Clock is designed to **not collect or store any personal information**.
+Your privacy is important to us. Christian Alarm Clock is designed to **not collect or store any personal information**.
 
 **Data Collection**  
 While we do not collect your personal data, this app uses **Google AdMob** to display ads. AdMob may collect information such as:  
