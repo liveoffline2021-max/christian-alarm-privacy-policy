@@ -1,7 +1,7 @@
 
 Bible
-https://ebible.org/arb-vd/copyright.htm
-https://github.com/seven1m/open-bibles/blob/master/bul-bulgarian.osis.xml
+- https://ebible.org/arb-vd/copyright.htm
+- https://github.com/seven1m/open-bibles/blob/master/bul-bulgarian.osis.xml
 https://github.com/seven1m/open-bibles/blob/master/dan-danish.osis.xml
 https://github.com/seven1m/open-bibles/blob/master/deu-luther1912.osis.xml
 https://sites.google.com/site/nestle1904/
