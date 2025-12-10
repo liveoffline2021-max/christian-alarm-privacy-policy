@@ -1,23 +1,96 @@
+- [God Is Good – Handwritten Quote](https://wallpapers.com/wallpapers/god-is-good-handwritten-quote-7yce191o3tgjw79o.html)
+- [Have Faith – Ocean Cliff Sunset](https://wallpapers.com/wallpapers/have-faith-ocean-cliff-sunset-78ype736wsw2r9lo.html)
+- [God Is Greater – Clouds](https://wallpapers.com/wallpapers/god-is-greater-clouds-phone-wallpaper-zgltnm53txvwub19.html)
+- [Mountain Cross – Sunrise](https://wallpapers.com/wallpapers/mountain-cross-sunrise-jpg-lbtiecla8a7fqkir.html)
+- [Just Pray – Watercolor Quote](https://wallpapers.com/wallpapers/just-pray-inspirational-quote-watercolor-background-8z5yi1m4ii25eycl.html)
+- [Crucifixion Statue – Mosaic Background](https://wallpapers.com/wallpapers/crucifixion-statue-against-mosaic-background-8taex5f1l3thllz2.html)
+- [Jesus Loves Me – Floral Background](https://wallpapers.com/wallpapers/jesus-loves-me-floral-background-7k6wavzcvnw0ca2v.html)
+- [Give Me Jesus – Mountain Backdrop](https://wallpapers.com/wallpapers/give-me-jesus-mountain-backdrop-ji1uxvifiaz1b7f0.html)
+- [Spiritual Forest – Inspirational Quote](https://wallpapers.com/wallpapers/spiritual-forest-inspirational-quote-wallpaper-e3wlxlilvj8lstif.html)
+- [Pieta Statue – Mary & Jesus](https://wallpapers.com/wallpapers/pieta-statue-mary-jesus-crucifix-background-ha93ednktpmne7x2.html)
+- [Saint Patrick’s Cathedral – Phone](https://wallpapers.com/wallpapers/saint-patrick-s-cathedral-phone-giajausfuzjuyolm.html)
+- [Interior of Toledo Cathedral – Phone](https://wallpapers.com/wallpapers/interior-of-toledo-cathedral-phone-wriepqoqbc5e5oof.html)
+- [City Streets & Toledo Cathedral – Phone](https://wallpapers.com/wallpapers/city-streets-and-toledo-cathedral-phone-955cjd157ga09hxf.html)
+- [Cologne Cathedral – Phone](https://wallpapers.com/wallpapers/cologne-cathedral-phone-ilyzermv19l7c9ev.html)
+- [Stanford University Church – Phone](https://wallpapers.com/wallpapers/stanford-university-church-for-phone-zkvkcece4xaarxn4.html)
+- [Heddal Stave Church – Entrance](https://wallpapers.com/wallpapers/entrance-of-heddal-stave-church-n54wkczbji9ot7t0.html)
+- [Cologne Cathedral HD – Phone](https://wallpapers.com/wallpapers/cologne-cathedral-hd-phone-kxge31w410lcvwc7.html)
+- [Dark Chester Cathedral – Phone](https://wallpapers.com/wallpapers/dark-chester-cathedral-for-phone-4bhkyay9kmtx1qlg.html)
+- [Cologne Cathedral at Night – Phone](https://wallpapers.com/wallpapers/cologne-cathedral-at-night-phone-a38mos9s0orqn623.html)
+- [Peubla Cathedral – iPhone 11 Pro](https://wallpapers.com/wallpapers/peubla-cathedral-iphone-11-pro-4k-7kxi1szw9d2c5tzn.html)
+- [Chartres Cathedral – Sunny Day](https://wallpapers.com/wallpapers/chartres-cathedral-on-a-sunny-day-wfxcse2odm8r0850.html)
+- [iPhone Travel](https://wallpapers.com/wallpapers/iphone-travel-ewgt8f5zzwyq6egl.html)
+- [Grunge Christian Cross](https://wallpapers.com/wallpapers/grunge-christian-cross-wallpaper-mcjx77bocxaw7vwo.html)
+- [Faith Can Move Mountains](https://wallpapers.com/wallpapers/faith-can-move-mountains-christian-wallpaper-2ddp4t9n1t65urxg.html)
+- [Wooden Cross Against Sky](https://wallpapers.com/wallpapers/wooden-cross-against-sky-keu3f6w29pxrwdu2.html)
+- [Cosmic Cross – Believe](https://wallpapers.com/wallpapers/cosmic-cross-believe-wallpaper-2lw23fvzw2wiznea.html)
+- [Crucifixion Statue – Mountain Backdrop](https://wallpapers.com/wallpapers/crucifixion-statue-mountain-backdrop-hkizoxj2y09lq34y.html)
+- [African iPhone Wallpaper](https://wallpapers.com/wallpapers/african-iphone-vs1o48gqxae9j33d.html)
+- [Ocean Aesthetic – Phone](https://wallpapers.com/wallpapers/ocean-aesthetic-phone-cz9fv0jshbl83r8n.html)
+- [Wave – iPhone](https://wallpapers.com/wallpapers/wave-iphone-rcy7gomc16ltvnfv.html)
+- [Sunrise – iPhone](https://wallpapers.com/wallpapers/sunrise-iphone-bl6j99ypt4qjz4s7.html)
+- [Believe Forever – Inspirational Quote](https://wallpapers.com/wallpapers/believe-forever-inspirational-quote-9ijnkleqznt1nh0m.html)
+- [Bible Cross Window Reflection](https://wallpapers.com/wallpapers/bible-cross-window-reflection-zymnnwqd3i3jz0pu.html)
+- [Crucifixion Sculpture – B&W](https://wallpapers.com/wallpapers/crucifixion-sculpture-blackand-white-pstys3rnd4bnr0hu.html)
+- [John 1:16 – Grace Upon Grace](https://wallpapers.com/wallpapers/john116-grace-upon-grace-wallpaper-42p0uzh4rt3nwf8x.html)
+- [Inspirational Gradient Quote](https://wallpapers.com/wallpapers/inspirational-quote-gradient-background-3td2ypn67mvp3vbh.html)
+- [Ocean Waves – Faith Background](https://wallpapers.com/wallpapers/ocean-waves-faith-background-tivohzfiv9y0htwn.html)
+- [He Loved Us First](https://wallpapers.com/wallpapers/he-loved-us-first-christian-quote-vurbvyldhbun5vov.html)
+- [God Is Good – Clouds Background](https://wallpapers.com/wallpapers/god-is-good-clouds-background-9piu5ja18v1mokpg.html)
+- [Sea View – I Love Jesus](https://wallpapers.com/wallpapers/sea-view-i-love-jesus-iphone-og937paq315czn1p.html)
+- [Proclamation Statue of Jesus – 4K iPhone](https://wallpapers.com/wallpapers/proclamation-statue-of-jesus-4k-iphone-ktn2wxannjqqq9ci.html)
+- [Redeemer Sculpted Statue – Phone](https://wallpapers.com/wallpapers/redeemer-sculpted-statue-jesus-phone-trw5p8ldf2kdn1j3.html)
+- [Jesus Loves Me – Phone](https://wallpapers.com/wallpapers/jesus-loves-me-jesus-phone-5bgar193xzphmlf5.html)
+- [Jesus in Heaven](https://wallpapers.com/wallpapers/jesus-in-heaven-8k1nt9c3f5p23xi1.html)
+- [Catholic Patron Figure](https://wallpapers.com/wallpapers/catholic-patron-figure-whxgumj4k7n8tt7s.html)
+- [Good Friday – Cross & Jesus (4K iPhone)](https://wallpapers.com/wallpapers/good-friday-cross-jesus-4k-iphone-zji9q5witx8d7r7w.html)
+- [Redeemer Deco Statue – 4K iPhone](https://wallpapers.com/wallpapers/redeemer-deco-statue-jesus-4k-iphone-ra6yeo9ux41zhgvm.html)
+- [Christ Knocking on Door – Phone](https://wallpapers.com/wallpapers/christ-knocking-on-door-jesus-phone-lfxzjtbzx1dt4wxe.html)
+- [Grey Statue of Jesus – Phone](https://wallpapers.com/wallpapers/grey-statue-jesus-phone-jru55w54hmphbva3.html)
+- [Sacred Statue of Christ – Phone](https://wallpapers.com/wallpapers/sacred-statue-of-christ-jesus-phone-psdbmij3fbc4fkwd.html)
+- [Lambs of Christ – Phone](https://wallpapers.com/wallpapers/lambs-of-christ-jesus-phone-fvh2dwo5a8wmdr2r.html)
+- [Greyscale Cross – Jesus Phone](https://wallpapers.com/wallpapers/greyscale-cross-jesus-phone-pubo1ou9wi6cu19a.html)
+- [Symbols – I Love Jesus – iPhone](https://wallpapers.com/wallpapers/symbols-i-love-jesus-iphone-jn8faysrzcrhruvr.html)
+- [Jesus Paid It All – Phone](https://wallpapers.com/wallpapers/jesus-paid-it-all-jesus-phone-7ce5idpz2cm8zcfl.html)
+- [Christ with Baby Sheep – Phone](https://wallpapers.com/wallpapers/christ-with-baby-sheep-jesus-phone-zt0dthhk2oel1dxw.html)
+- [Creations – Jesus Phone](https://wallpapers.com/wallpapers/creations-jesus-phone-5xnlg9lwf3gwtxju.html)
+- [Joseph & Mary – Jesus Phone](https://wallpapers.com/wallpapers/joseph-and-mary-jesus-phone-a01egz3eizcezg38.html)
+- [Stained Glass Jesus – Phone](https://wallpapers.com/wallpapers/stained-glass-jesus-phone-rnooa5wb0v18okya.html)
+- [Jesus – iPhone](https://wallpapers.com/wallpapers/jesus-iphone-3mjxv4xm5m5gyssd.html)
+- [Jesus – iPhone (Variant)](https://wallpapers.com/wallpapers/jesus-iphone-skbtb62b44hnu1fm.html)
+- [Jesus – LDS iPhone Wallpaper](https://wallpapers.com/wallpapers/jesus-lds-iphone-wallpaper-hbgjj2f3k7i1a1na.html)
+- [Holy Cross – Jesus (4K iPhone)](https://wallpapers.com/wallpapers/holy-cross-jesus-4k-iphone-vedfw0fbf1rgd0xq.html)
+- [Cross of Christ – 4K iPhone](https://wallpapers.com/wallpapers/cross-of-christ-jesus-4k-iphone-naxuaodf0kaku48k.html)
+- [Cross of Christ – 4K iPhone (Variant)](https://wallpapers.com/wallpapers/cross-of-christ-jesus-4k-iphone-9y8rq5fa61wqikwk.html)
+- [Holy Name of Jesus – 4K iPhone](https://wallpapers.com/wallpapers/holy-name-of-jesus-4k-iphone-zglk4jbqwhxsm3ti.html)
+- [Hill Crosses – Jesus 4K iPhone](https://wallpapers.com/wallpapers/hill-crosses-jesus-4k-iphone-hr3wunviy9cbqxcl.html)
+- [The Redeemer Statue – 4K iPhone](https://wallpapers.com/wallpapers/the-redeemer-statue-jesus-4k-iphone-p9ews6fmt1vthn6j.html)
+- [Holy Cross of Jesus – 4K iPhone](https://wallpapers.com/wallpapers/holy-cross-of-jesus-4k-iphone-n6m3k02dkfrk3t13.html)
+- [Mountain Cross of Jesus – 4K iPhone](https://wallpapers.com/wallpapers/mountain-cross-of-jesus-4k-iphone-90j5wd5g2htnw7b6.html)
+- [Jesus – iPhone (Another)](https://wallpapers.com/wallpapers/jesus-iphone-2cvgceu2195r7umh.html)
+- [Jesus – iPhone (Another Variant)](https://wallpapers.com/wallpapers/jesus-iphone-0nxge7hr0vm64765.html)
+- [Catholic – Phone](https://wallpapers.com/wallpapers/catholic-phone-ge3c2hqzcgjkrb21.html)
+- [Clock Icon (Christian-themed) – Flaticon](https://www.flaticon.com/free-icon/time_18182715?term=christian+clock&page=1&position=18&origin=search&related_id=18182715)
 
-Bible
+Bible Verses
 - https://ebible.org/arb-vd/copyright.htm
 - https://github.com/seven1m/open-bibles/blob/master/bul-bulgarian.osis.xml
-https://github.com/seven1m/open-bibles/blob/master/dan-danish.osis.xml
-https://github.com/seven1m/open-bibles/blob/master/deu-luther1912.osis.xml
-https://sites.google.com/site/nestle1904/
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/eng-us-oeb.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/spa-rv1909.usfx.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/fin-biblia.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/fra-ostervald.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/hrv-croatian.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/hun-karoli.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/ita-riveduta.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/jpn-kougo.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/kor-korean.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/dut-statenvertaling.zefania.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/nor-norwegian.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/pol-gdanska.osis.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/por-almeida.usfx.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/ron-rccv.usfx.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/rus-synodal.zefania.xml
-https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/swe-swedish.osis.xml
+- https://github.com/seven1m/open-bibles/blob/master/dan-danish.osis.xml
+- https://github.com/seven1m/open-bibles/blob/master/deu-luther1912.osis.xml
+- https://sites.google.com/site/nestle1904/
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/eng-us-oeb.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/spa-rv1909.usfx.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/fin-biblia.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/fra-ostervald.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/hrv-croatian.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/hun-karoli.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/ita-riveduta.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/jpn-kougo.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/kor-korean.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/dut-statenvertaling.zefania.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/nor-norwegian.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/pol-gdanska.osis.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/por-almeida.usfx.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/ron-rccv.usfx.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/rus-synodal.zefania.xml
+- https://raw.githubusercontent.com/seven1m/open-bibles/refs/heads/master/swe-swedish.osis.xml
