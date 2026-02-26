@@ -9,20 +9,27 @@ This file contains the Privacy Policy in multiple languages. Click a language be
 ## Language Index
 - [English](#english-en)
 - [Arabic](#arabic-ar)
+- [Bulgarian](#bulgarian-bg)
 - [Bengali](#bengali-bn)
+- [Danish](#danish-da)
 - [German](#german-de)
 - [Greek](#greek-el)
+- [Finnish](#finnish-fi)
+- [Croatian](#croatian-hr)
+- [Hungarian](#hungarian-hu)
 - [Spanish](#spanish-es)
 - [French](#french-fr)
 - [Hindi](#hindi-hi)
 - [Italian](#italian-it)
 - [Japanese](#japanese-ja)
 - [Korean](#korean-ko)
+- [Norwegian Bokmål](#norwegian-bokmål-nb)
 - [Dutch](#dutch-nl)
 - [Polish](#polish-pl)
 - [Portuguese](#portuguese-pt)
 - [Romanian](#romanian-ro)
 - [Russian](#russian-ru)
+- [Swedish](#swedish-sv)
 - [Ukrainian](#ukrainian-uk)
 
 ---
@@ -54,7 +61,7 @@ We do not use your data for any other purposes.
 You can opt out of personalized ads by adjusting your Google settings here: [Google Ads Settings](https://www.google.com/settings/ads)
 
 **Children’s Privacy**  
-Christmas Alarm Clock is not intended for children under 13, and we do not knowingly collect data from children.
+Christian Alarm Clock is not intended for children under 13, and we do not knowingly collect data from children.
 
 **Third-Party Services**  
 This app uses third-party services such as Google AdMob, which have their own privacy practices. For more information, please see the [Google Privacy Policy](https://policies.google.com/privacy).
@@ -109,6 +116,47 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 ---
 
+## Bulgarian (bg)
+
+**Политика за поверителност – Christian Alarm Clock**  
+
+**Дата на влизане в сила:** 24 ноември 2025 г.  
+
+Вашата поверителност е важна за нас. Christian Alarm Clock е проектиран така, че **да не събира или съхранява никаква лична информация**.
+
+### Събиране на данни  
+Въпреки че не събираме вашите лични данни, това приложение използва **Google AdMob** за показване на реклами. AdMob може да събира информация като:  
+- Идентификатори на устройството (напр. рекламно ID)  
+- Данни за използване (напр. взаимодействия с приложението, продължителност на сесията)  
+
+Тази информация се използва за предоставяне на персонализирани реклами и подобряване на ефективността им. Нямаме достъп до лични данни и не ги споделяме сами.
+
+### Как се използват вашите данни  
+Данните, събрани от AdMob, могат да се използват за:  
+- Показване на реклами, които съответстват на вашите интереси  
+- Измерване на ефективността на рекламите и подобряване качеството на приложението  
+- Предотвратяване на измами и повишаване на сигурността  
+
+Не използваме вашите данни за други цели.
+
+### Потребителски избори  
+Можете да се откажете от персонализирани реклами, като промените настройките си в Google тук: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Поверителност на децата  
+Christian Alarm Clock не е предназначен за деца под 13 години и не събираме съзнателно данни от деца.
+
+### Услуги на трети страни  
+Това приложение използва услуги на трети страни като Google AdMob, които имат свои собствени практики за поверителност. За повече информация вижте [Политиката за поверителност на Google](https://policies.google.com/privacy).
+
+### Актуализации на тази политика за поверителност  
+Може да актуализираме тази политика за поверителност от време на време. Последната версия винаги ще бъде достъпна в приложението.
+
+### Контакт с нас  
+Ако имате въпроси или притеснения относно тази политика за поверителност, свържете се с нас:  
+**Имейл:** contact@liveoffline.ca
+
+---
+
 ## Bengali (bn)
 
 **গোপনীয়তা নীতি – ক্রিসমাস অ্যালার্ম ক্লক**  
@@ -147,6 +195,47 @@ AdMob দ্বারা সংগ্রহিত ডেটা ব্যবহ�
 **যোগাযোগ করুন**  
 এই গোপনীয়তা নীতির বিষয়ে আপনার কোনো প্রশ্ন বা উদ্বেগ থাকলে, আমাদের সাথে যোগাযোগ করুন:  
 **ইমেল:** contact@liveoffline.ca
+
+---
+
+## Danish (da)
+
+**Privatlivspolitik – Christian Alarm Clock**  
+
+**Ikrafttrædelsesdato:** 24. november 2025  
+
+Dit privatliv er vigtigt for os. Christian Alarm Clock er designet til **ikke at indsamle eller gemme nogen personlige oplysninger**.
+
+### Dataindsamling  
+Selvom vi ikke indsamler dine personlige oplysninger, bruger denne app **Google AdMob** til at vise annoncer. AdMob kan indsamle oplysninger såsom:  
+- Enhedsidentifikatorer (f.eks. reklame-ID)  
+- Brugsdata (f.eks. app-interaktioner, sessionens varighed)  
+
+Disse oplysninger bruges til at levere personlige annoncer og forbedre annonceydelsen. Vi har ikke adgang til personlige oplysninger og deler dem ikke selv.
+
+### Hvordan dine data bruges  
+Data indsamlet af AdMob kan bruges til:  
+- At vise annoncer, der matcher dine interesser  
+- At måle annonceydelsen og forbedre appkvaliteten  
+- At forebygge svindel og øge sikkerheden  
+
+Vi bruger ikke dine data til andre formål.
+
+### Brugerindstillinger  
+Du kan fravælge personlige annoncer ved at justere dine Google-indstillinger her: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Børns privatliv  
+Christian Alarm Clock er ikke beregnet til børn under 13 år, og vi indsamler ikke bevidst data fra børn.
+
+### Tjenester fra tredjeparter  
+Denne app bruger tjenester fra tredjeparter såsom Google AdMob, som har deres egne privatlivspraksisser. For mere information, se [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Opdateringer af denne privatlivspolitik  
+Vi kan opdatere denne privatlivspolitik fra tid til anden. Den nyeste version vil altid være tilgængelig i appen.
+
+### Kontakt os  
+Hvis du har spørgsmål eller bekymringer vedrørende denne privatlivspolitik, kontakt os:  
+**Email:** contact@liveoffline.ca
 
 ---
 
@@ -273,6 +362,47 @@ Si tienes preguntas o inquietudes sobre esta política de privacidad, contáctan
 
 ---
 
+## Finnish (fi)
+
+**Tietosuojakäytäntö – Christian Alarm Clock**  
+
+**Voimaantulopäivä:** 24. marraskuuta 2025  
+
+Yksityisyytesi on meille tärkeää. Christian Alarm Clock on suunniteltu niin, että se **ei kerää tai tallenna mitään henkilökohtaisia tietoja**.
+
+### Tietojen keruu  
+Vaikka emme kerää henkilökohtaisia tietojasi, tämä sovellus käyttää **Google AdMobia** mainosten näyttämiseen. AdMob voi kerätä tietoja, kuten:  
+- Laitteen tunnisteet (esim. mainos-ID)  
+- Käyttötiedot (esim. sovelluksen vuorovaikutukset, istunnon kesto)  
+
+Näitä tietoja käytetään tarjoamaan personoituja mainoksia ja parantamaan mainosten suorituskykyä. Meillä ei ole pääsyä henkilökohtaisiin tietoihin emmekä jaa niitä itse.
+
+### Miten tietojasi käytetään  
+AdMobin keräämiä tietoja voidaan käyttää:  
+- Näyttämään mainoksia, jotka vastaavat kiinnostuksen kohteitasi  
+- Mittaamaan mainosten suorituskykyä ja parantamaan sovelluksen laatua  
+- Estämään petoksia ja parantamaan turvallisuutta  
+
+Emme käytä tietojasi muihin tarkoituksiin.
+
+### Käyttäjän valinnat  
+Voit kieltäytyä personoiduista mainoksista säätämällä Google-asetuksiasi täällä: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Lasten yksityisyys  
+Christian Alarm Clock ei ole tarkoitettu alle 13-vuotiaille lapsille, eikä keräämme tietoisesti lasten tietoja.
+
+### Kolmannen osapuolen palvelut  
+Tämä sovellus käyttää kolmannen osapuolen palveluita, kuten Google AdMobia, joilla on omat tietosuojakäytäntönsä. Lisätietoja löydät osoitteesta [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Päivitykset tähän tietosuojakäytäntöön  
+Saatamme päivittää tätä tietosuojakäytäntöä ajoittain. Uusin versio on aina saatavilla sovelluksessa.
+
+### Ota yhteyttä  
+Jos sinulla on kysyttävää tai huolenaiheita tästä tietosuojakäytännöstä, ota yhteyttä:  
+**Sähköposti:** contact@liveoffline.ca
+
+---
+
 ## French (fr)
 
 **Politique de Confidentialité – Réveil de Noël**  
@@ -352,6 +482,88 @@ AdMob द्वारा संग्रहित डेटा का उपय�
 **संपर्क करें**  
 यदि आपके पास इस नीति के बारे में प्रश्न हैं, तो हमसे संपर्क करें:  
 **ईमेल:** contact@liveoffline.ca
+
+---
+
+## Croatian (hr)
+
+**Politika privatnosti – Christian Alarm Clock**  
+
+**Datum stupanja na snagu:** 24. studenog 2025  
+
+Vaša privatnost nam je važna. Christian Alarm Clock je dizajniran tako da **ne prikuplja niti pohranjuje osobne podatke**.
+
+### Prikupljanje podataka  
+Iako ne prikupljamo vaše osobne podatke, ova aplikacija koristi **Google AdMob** za prikazivanje oglasa. AdMob može prikupljati informacije kao što su:  
+- Identifikatori uređaja (npr. ID oglasa)  
+- Podaci o korištenju (npr. interakcije s aplikacijom, trajanje sesije)  
+
+Ove informacije koriste se za pružanje personaliziranih oglasa i poboljšanje performansi oglasa. Nemamo pristup osobnim podacima niti ih sami dijelimo.
+
+### Kako se vaši podaci koriste  
+Podaci koje prikuplja AdMob mogu se koristiti za:  
+- Prikazivanje oglasa koji odgovaraju vašim interesima  
+- Mjerenje učinkovitosti oglasa i poboljšanje kvalitete aplikacije  
+- Sprječavanje prijevara i povećanje sigurnosti  
+
+Ne koristimo vaše podatke u druge svrhe.
+
+### Izbor korisnika  
+Možete odabrati odustajanje od personaliziranih oglasa podešavanjem Google postavki ovdje: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Privatnost djece  
+Christian Alarm Clock nije namijenjen djeci mlađoj od 13 godina i ne prikupljamo podatke od djece svjesno.
+
+### Usluge trećih strana  
+Ova aplikacija koristi usluge trećih strana poput Google AdMob-a, koje imaju vlastite politike privatnosti. Za više informacija pogledajte [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Ažuriranja ove politike privatnosti  
+Povremeno možemo ažurirati ovu Politiku privatnosti. Najnovija verzija uvijek će biti dostupna unutar aplikacije.
+
+### Kontakt  
+Ako imate pitanja ili zabrinutosti u vezi ove Politike privatnosti, kontaktirajte nas:  
+**Email:** contact@liveoffline.ca
+
+---
+
+## Hungarian (hu)
+
+**Adatvédelmi irányelvek – Christian Alarm Clock**  
+
+**Hatálybalépés dátuma:** 2025. november 24.  
+
+Az Ön adatainak védelme fontos számunkra. A Christian Alarm Clock úgy lett kialakítva, hogy **ne gyűjtsön és ne tároljon semmilyen személyes adatot**.
+
+### Adatgyűjtés  
+Bár nem gyűjtjük az Ön személyes adatait, ez az alkalmazás a **Google AdMob** szolgáltatást használja hirdetések megjelenítéséhez. Az AdMob az alábbi adatokat gyűjtheti:  
+- Eszközazonosítók (pl. hirdetési azonosító)  
+- Használati adatok (pl. alkalmazáson belüli interakciók, munkamenet hossza)  
+
+Ezeket az információkat személyre szabott hirdetések biztosítására és a hirdetések teljesítményének javítására használjuk. Nincs hozzáférésünk személyes adatokhoz, és nem osztjuk meg azokat.
+
+### Hogyan használjuk az adatait  
+Az AdMob által gyűjtött adatokat az alábbi célokra lehet felhasználni:  
+- Hirdetések megjelenítése az Ön érdeklődési köre szerint  
+- Hirdetés teljesítményének mérése és az alkalmazás minőségének javítása  
+- Csalások megelőzése és biztonság növelése  
+
+Adatait más célokra nem használjuk.
+
+### Felhasználói választások  
+A személyre szabott hirdetésekről leiratkozhat, ha itt módosítja Google-beállításait: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Gyermekek adatvédelme  
+A Christian Alarm Clock nem gyermekeknek szól (13 éves kor alatt), és nem gyűjtünk szándékosan adatokat gyermekektől.
+
+### Harmadik fél szolgáltatások  
+Ez az alkalmazás harmadik fél szolgáltatásait használja, például a Google AdMob-ot, amelyeknek saját adatvédelmi gyakorlataik vannak. További információért tekintse meg a [Google Privacy Policy](https://policies.google.com/privacy) dokumentumot.
+
+### Adatvédelmi irányelvek frissítése  
+Ezt az Adatvédelmi irányelvet időről időre frissíthetjük. A legújabb verzió mindig elérhető lesz az alkalmazáson belül.
+
+### Kapcsolat  
+Ha kérdése van ezzel az Adatvédelmi irányelvvel kapcsolatban, lépjen kapcsolatba velünk:  
+**Email:** contact@liveoffline.ca
 
 ---
 
@@ -475,6 +687,47 @@ AdMob에서 수집한 데이터는 다음에 사용될 수 있습니다:
 **문의하기**  
 이 개인정보 처리방침에 대한 질문이나 우려사항이 있으면 연락주세요:  
 **이메일:** contact@liveoffline.ca
+
+---
+
+## Norwegian Bokmål (nb)
+
+**Personvernregler – Christian Alarm Clock**  
+
+**Ikrafttredelsesdato:** 24. november 2025  
+
+Ditt personvern er viktig for oss. Christian Alarm Clock er laget for å **ikke samle inn eller lagre personlig informasjon**.
+
+### Datainnsamling  
+Selv om vi ikke samler inn dine personlige data, bruker denne appen **Google AdMob** for å vise annonser. AdMob kan samle inn informasjon som:  
+- Enhetsidentifikatorer (f.eks. annonse-ID)  
+- Bruksdata (f.eks. app-interaksjoner, sesjonsvarighet)  
+
+Denne informasjonen brukes til å levere tilpassede annonser og forbedre annonseytelsen. Vi har ikke tilgang til personlige detaljer og deler dem ikke.
+
+### Hvordan dine data brukes  
+Data samlet inn av AdMob kan brukes til å:  
+- Vise annonser som passer dine interesser  
+- Måle annonseytelse og forbedre app-kvalitet  
+- Forhindre svindel og øke sikkerheten  
+
+Vi bruker ikke dine data til andre formål.
+
+### Brukervalg  
+Du kan velge å ikke motta tilpassede annonser ved å justere dine Google-innstillinger her: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Barns personvern  
+Christian Alarm Clock er ikke ment for barn under 13 år, og vi samler ikke bevisst inn data fra barn.
+
+### Tjenester fra tredjepart  
+Denne appen bruker tredjepartstjenester som Google AdMob, som har egne personvernpraksiser. For mer informasjon, se [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Oppdateringer til disse personvernreglene  
+Vi kan oppdatere disse personvernreglene fra tid til annen. Den nyeste versjonen vil alltid være tilgjengelig i appen.
+
+### Kontakt oss  
+Hvis du har spørsmål eller bekymringer angående disse personvernreglene, kontakt oss:  
+**E-post:** contact@liveoffline.ca
 
 ---
 
@@ -680,6 +933,47 @@ Pentru întrebări sau nelămuriri privind această politică, contactați-ne:
 **Связь с нами**  
 Если у вас есть вопросы о политике конфиденциальности, свяжитесь с нами:  
 **Email:** contact@liveoffline.ca
+
+---
+
+## Swedish (sv)
+
+**Integritetspolicy – Christian Alarm Clock**  
+
+**Ikraftträdandedatum:** 24 november 2025  
+
+Din integritet är viktig för oss. Christian Alarm Clock är utformad för att **inte samla in eller lagra någon personlig information**.
+
+### Datainsamling  
+Även om vi inte samlar in dina personuppgifter använder den här appen **Google AdMob** för att visa annonser. AdMob kan samla in information som:  
+- Enhetsidentifierare (t.ex. annonse-ID)  
+- Användardata (t.ex. appinteraktioner, sessionstid)  
+
+Denna information används för att tillhandahålla personligt anpassade annonser och förbättra annonsresultatet. Vi har inte tillgång till personliga uppgifter och delar dem inte.
+
+### Hur dina uppgifter används  
+Data som samlas in av AdMob kan användas för att:  
+- Visa annonser som matchar dina intressen  
+- Mäta annonsresultat och förbättra appkvaliteten  
+- Förebygga bedrägeri och öka säkerheten  
+
+Vi använder inte dina uppgifter för andra ändamål.
+
+### Användarval  
+Du kan välja bort personligt anpassade annonser genom att justera dina Google-inställningar här: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Barns integritet  
+Christian Alarm Clock är inte avsedd för barn under 13 år, och vi samlar inte medvetet in data från barn.
+
+### Tredjepartstjänster  
+Denna app använder tredjepartstjänster som Google AdMob, som har sina egna sekretesspraxis. För mer information, se [Google Privacy Policy](https://policies.google.com/privacy).
+
+### Uppdateringar av denna integritetspolicy  
+Vi kan uppdatera denna integritetspolicy då och då. Den senaste versionen kommer alltid vara tillgänglig i appen.
+
+### Kontakta oss  
+Om du har frågor eller funderingar kring denna integritetspolicy, kontakta oss:  
+**E-post:** contact@liveoffline.ca
 
 ---
 
