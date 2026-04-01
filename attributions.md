@@ -70,7 +70,6 @@
 - [Jesus – iPhone (Another)](https://wallpapers.com/wallpapers/jesus-iphone-2cvgceu2195r7umh.html)
 - [Jesus – iPhone (Another Variant)](https://wallpapers.com/wallpapers/jesus-iphone-0nxge7hr0vm64765.html)
 - [Catholic – Phone](https://wallpapers.com/wallpapers/catholic-phone-ge3c2hqzcgjkrb21.html)
-- [Clock Icon (Christian-themed) – Flaticon](https://www.flaticon.com/free-icon/time_18182715?term=christian+clock&page=1&position=18&origin=search&related_id=18182715)
 - [Glorious Sunrise Over Green Landscape](https://wallpapers.com/background/glorious-sunrise-over-a-green-landscape-dn3yzzbt0sj85k0d.html)
 - [Jesus LDS iPhone Wallpaper](https://wallpapers.com/wallpapers/jesus-lds-iphone-wallpaper-wyuousb3qu25qyzk.html)
 - [Armor of God](https://wallpapers.com/wallpapers/armor-of-god-6msrbky8jd5xohl5.html)
